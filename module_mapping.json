@@ -4,5 +4,5 @@
     "cv2": "opencv-python-headless",
     "webdav3": "webdavclient3",
     "laserfarm": "laserfarm==0.1.4",
-    "numpy": "numpy==1.23.0"
+    "numpy": "numpy==1.22.4"
 }
