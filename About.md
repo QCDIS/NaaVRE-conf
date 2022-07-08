@@ -68,3 +68,8 @@ When the workflow completes its execution  it should look like this:
 # Publications
 [Zhao, Z., Koulouzis, S., Bianchi, R., Farshidi, S., Shi, Z., Xin, R., Wang, Y., Li, N., Shi, Y., Timmermans, J. and Kissling, W.D., 2022. Notebook‐as‐a‐VRE (NaaVRE): From private notebooks to a collaborative cloud virtual research environment. Software: Practice and Experience.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.3098)
 
+
+[Koulouzis, S., Shi, Y., Wan, Y., Bianchi, R., Kissling, D. and Zhao, Z., 2021, April. Enabling" LiDAR data processing" as a service in a Jupyter environment. In EGU General Assembly Conference Abstracts (pp. EGU21-8294).](https://ui.adsabs.harvard.edu/abs/2021EGUGA..23.8294K/abstract)
+
+[Wang, Y., Koulouzis, S., Bianchi, R., Li, N., Shi, Y., Timmermans, J., Kissling, W.D. and Zhao, Z., 2022. Scaling notebooks as re-configurable cloud workflows. Data Intelligence, 4(2), pp.409-425.](https://direct.mit.edu/dint/article/4/2/409/110670/Scaling-Notebooks-as-Re-configurable-Cloud)
+
