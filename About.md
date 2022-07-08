@@ -64,3 +64,7 @@ By dragging and dropping the cells on the left, construct the workflow shown bel
 ## Execute the workflow
 
 When the workflow completes its execution  it should look like this:
+
+# Publications
+[Zhao, Z., Koulouzis, S., Bianchi, R., Farshidi, S., Shi, Z., Xin, R., Wang, Y., Li, N., Shi, Y., Timmermans, J. and Kissling, W.D., 2022. Notebook‐as‐a‐VRE (NaaVRE): From private notebooks to a collaborative cloud virtual research environment. Software: Practice and Experience.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.3098)
+
