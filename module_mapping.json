@@ -1,6 +1,8 @@
 {
-    "torch.nn": "torch",
+    "torch.nn": "torch",    
+    "torch.nn.functional": "torch",
     "torchvision.models": "torchvision",
+    "torchvision.transforms": "torchvision",
     "cv2": "opencv-python-headless",
     "webdav3": "webdavclient3",
     "laserfarm": "laserfarm==0.1.4",
