@@ -4,6 +4,5 @@
     "torchvision.models": "torchvision",
     "torchvision.transforms": "torchvision",
     "cv2": "opencv-python-headless",
-    "webdav3": "webdavclient3",
-    "numpy": "numpy==1.23.0"
+    "webdav3": "webdavclient3"
 }
