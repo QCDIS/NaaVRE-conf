@@ -1,5 +1,5 @@
 {
-    "pip": {}
+    "pip": {},
     "conda": {"torch.nn": "torch", 
               "torch.nn.functional": "torch", 
               "torchvision.models": "torchvision", 
