@@ -1,9 +1,9 @@
 {
-    "torch.nn": "torch",    
-    "torch.nn.functional": "torch",
-    "torchvision.models": "torchvision",
-    "torchvision.transforms": "torchvision",
-    "cv2": "opencv-python-headless",
-    "webdav3": "webdavclient3",
-    "laspy": "laspy[lazrs,laszip]"
+    "pip": {}
+    "conda": {"torch.nn": "torch", 
+              "torch.nn.functional": "torch", 
+              "torchvision.models": "torchvision", 
+              "torchvision.transforms": "torchvision", 
+              "cv2": "opencv-python-headless",
+              "webdav3": "webdavclient3"}
 }
