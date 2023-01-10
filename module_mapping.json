@@ -1,5 +1,5 @@
 {
-    "pip": {"laserfarm":"laserfarm",
+    "pip": {"laserfarm":"git+https://github.com/QCDIS/Laserfarm.git",
            "multiply_data_access": "",
            "vm_support":""
            },
