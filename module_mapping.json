@@ -2,7 +2,8 @@
     "pip": {"laserfarm":"git+https://github.com/QCDIS/Laserfarm.git",
            "multiply_data_access": "",
            "vm_support":"",
-           "my_data_generator": "git+public github sourcecode link" 
+           "my_data_generator": "git+public github sourcecode link" ,
+           "calmap": "calmap"
            },
     "conda": {"torch.nn": "torch", 
               "torch.nn.functional": "torch", 
