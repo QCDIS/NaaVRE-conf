@@ -3,5 +3,6 @@
   "Laserfarm": "qcdis/miniconda3-pdal:v0.14",
   "vol2bird": "qcdis/python-vol2bird:v2.1.1",
   "Jupyter R Notebook": "jupyter/r-notebook:70178b8e48d7",
-  "LTER-LIFE": "qcdis/conda-lter-life:v0.2"
+  "LTER-LIFE": "qcdis/conda-lter-life:v0.2",
+  "LTER-LIFE-test": "ghcr.io/qcdis/n-a-a-vre/naavre-cell-lter-life-veluwe:v0.1-test.8"
 }
