@@ -5,7 +5,7 @@
            "my_data_generator": "git+public github sourcecode link" ,
            "calmap": "calmap"
            },
-    "conda": {"torch": "pytorch"
+    "conda": {"torch": "pytorch",
               "torchvision.models": "torchvision", 
               "torchvision.transforms": "torchvision", 
               "cv2": "opencv-python-headless",
