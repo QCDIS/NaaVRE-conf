@@ -5,11 +5,10 @@
            "my_data_generator": "git+public github sourcecode link" ,
            "calmap": "calmap"
            },
-    "conda": {
+    "conda": {"torch": "pytorch"
               "torchvision.models": "torchvision", 
               "torchvision.transforms": "torchvision", 
               "cv2": "opencv-python-headless",
-              "webdav3": "webdavclient3",
-              "matplotlib.pyplot": "matplotlib"
+              "webdav3": "webdavclient3"
              }
 }
