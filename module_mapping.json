@@ -1,12 +1,18 @@
 {
-    "pip": {"laserfarm":"git+https://github.com/QCDIS/Laserfarm.git",
-           "multiply_data_access": "",
-           "vm_support":"",
-           "my_data_generator": "git+public github sourcecode link" ,
-           "calmap": "calmap"
-           },
-    "conda": {"torch": "pytorch",
-              "cv2": "opencv-python-headless",
-              "webdav3": "webdavclient3"
-             }
+    "pip": {
+        "laserfarm": "git+https://github.com/QCDIS/Laserfarm.git",
+        "multiply_data_access": "",
+        "vm_support": "",
+        "my_data_generator": "git+public github sourcecode link",
+        "calmap": "calmap"
+    },
+    "conda": {
+        "torch": "pytorch",
+        "cv2": "opencv-python-headless",
+        "webdav3": "webdavclient3",
+        "matplotlib.pyplot": "matplotlib"
+    },
+    "r": {
+        "r-climwin": null
+    }
 }
