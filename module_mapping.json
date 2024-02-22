@@ -6,8 +6,6 @@
            "calmap": "calmap"
            },
     "conda": {"torch": "pytorch",
-              "torchvision.models": "torchvision", 
-              "torchvision.transforms": "torchvision", 
               "cv2": "opencv-python-headless",
               "webdav3": "webdavclient3"
              }
