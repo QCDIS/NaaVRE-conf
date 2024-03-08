@@ -10,7 +10,8 @@
         "torch": "pytorch",
         "cv2": "opencv-python-headless",
         "webdav3": "webdavclient3",
-        "matplotlib.pyplot": "matplotlib"
+        "matplotlib.pyplot": "matplotlib",
+        "acolite": null
     },
     "r": {
         "r-climwin": null
