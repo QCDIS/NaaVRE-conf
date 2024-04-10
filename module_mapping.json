@@ -1,6 +1,7 @@
 {
     "pip": {
         "laserfarm": "git+https://github.com/QCDIS/Laserfarm.git",
+        "icoscp": "icoscp",
         "calmap": "calmap"
     },
     "conda": {
