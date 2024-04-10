@@ -9,6 +9,7 @@
         "cv2": "opencv-python-headless",
         "webdav3": "webdavclient3",
         "matplotlib.pyplot": "matplotlib",
+        "slugify": "awesome-slugify",
         "acolite": null
     },
     "r": {
