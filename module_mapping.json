@@ -10,6 +10,7 @@
         "webdav3": "webdavclient3",
         "matplotlib.pyplot": "matplotlib",
         "slugify": "awesome-slugify",
+        "osgeo": "gdal",
         "acolite": null
     },
     "r": {
