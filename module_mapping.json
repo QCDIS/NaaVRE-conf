@@ -3,7 +3,8 @@
         "laserfarm": "git+https://github.com/QCDIS/Laserfarm.git",
         "icoscp": "icoscp",
         "calmap": "calmap",
-        "dtSat": "git+https://github.com/stanleesocca/dtRemoteSensing.git"
+        "dtSat": "git+https://github.com/stanleesocca/dtRemoteSensing.git",
+        "dtAcolite": "git+https://github.com/stanleesocca/dtRemoteSensing.git"
     },
     "conda": {
         "torch": "pytorch",
