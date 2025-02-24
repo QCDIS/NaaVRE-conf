@@ -14,7 +14,8 @@
         "matplotlib.pyplot": "matplotlib",
         "slugify": "awesome-slugify",
         "osgeo": "gdal",
-        "acolite": null
+        "acolite": null,
+        "matplotlib_scalebar": "matplotlib-scalebar"
     },
     "r": {
         "r-climwin": null,
