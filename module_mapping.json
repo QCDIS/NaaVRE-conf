@@ -15,7 +15,7 @@
         "slugify": "awesome-slugify",
         "osgeo": "gdal",
         "acolite": null,
-        "matplotlib_scalebar": "matplotlib-scalebar"
+        "matplotlib_scalebar": "matplotlib-scalebar",
         "matplotlib.animation" : "matplotlib"
     },
     "r": {
