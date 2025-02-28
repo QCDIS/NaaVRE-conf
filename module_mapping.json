@@ -5,8 +5,7 @@
         "icoscp_core": "icoscp_core",
         "calmap": "calmap",
         "dtSat": "git+https://github.com/stanleesocca/dtRemoteSensing.git",
-        "dtAcolite": "git+https://github.com/stanleesocca/dtRemoteSensing.git",
-        "rdata": "git+https://github.com/trossi/rdata.git@e50eb9c"
+        "dtAcolite": "git+https://github.com/stanleesocca/dtRemoteSensing.git"
     },
     "conda": {
         "torch": "pytorch",
