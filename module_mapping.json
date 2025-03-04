@@ -5,7 +5,7 @@
         "icoscp_core": "icoscp_core",
         "calmap": "calmap",
         "dtSat": "git+https://github.com/stanleesocca/dtRemoteSensing.git",
-        "dtAcolite": "git+https://github.com/stanleesocca/dtRemoteSensing.git"
+        "dtAcolite": "git+https://github.com/stanleesocca/dtRemoteSensing.git",
         "soilgrids": "git+https://github.com/BioDT/general-soilgrids-soil-data.git@83ce7f1"
     },
     "conda": {
