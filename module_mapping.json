@@ -17,7 +17,8 @@
         "osgeo": "gdal",
         "acolite": null,
         "matplotlib_scalebar": "matplotlib-scalebar",
-        "matplotlib.animation" : "matplotlib"
+        "matplotlib.animation" : "matplotlib",
+        "matplotlib.pyplo": "matplotlib"
     },
     "r": {
         "r-climwin": null,
