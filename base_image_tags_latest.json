@@ -1,0 +1,42 @@
+{
+  "pclake": {
+    "build": "ghcr.io/qcdis/naavre/naavre-cell-build-pclake:latest",
+    "runtime": "ghcr.io/qcdis/naavre/naavre-cell-runtime-pclake:latest"
+  },
+  "biotope": {
+    "build": "ghcr.io/qcdis/naavre/naavre-cell-build-biotope:latest",
+    "runtime": "ghcr.io/qcdis/naavre/naavre-cell-runtime-biotope:latest"
+  },
+  "lter-life-wadden": {
+    "build": "ghcr.io/qcdis/naavre/naavre-cell-build-lter-life-wadden:latest",
+    "runtime": "ghcr.io/qcdis/naavre/naavre-cell-runtime-lter-life-wadden:latest"
+  },
+  "lter-life-veluwe": {
+    "build": "ghcr.io/qcdis/naavre/naavre-cell-build-lter-life-veluwe:latest",
+    "runtime": "ghcr.io/qcdis/naavre/naavre-cell-runtime-lter-life-veluwe:latest"
+  },
+  "phytoplankton": {
+    "build": "ghcr.io/qcdis/naavre/naavre-cell-build-phytoplankton:latest",
+    "runtime": "ghcr.io/qcdis/naavre/naavre-cell-runtime-phytoplankton:latest"
+  },
+  "biodt-hackathon25": {
+    "build": "ghcr.io/qcdis/naavre/naavre-cell-build-biodt-hackathon25:latest",
+    "runtime": "ghcr.io/qcdis/naavre/naavre-cell-runtime-biodt-hackathon25:latest"
+  },
+  "r": {
+    "build": "ghcr.io/qcdis/naavre/naavre-cell-build-r:latest",
+    "runtime": "ghcr.io/qcdis/naavre/naavre-cell-runtime-r:latest"
+  },
+  "laserfarm": {
+    "build": "ghcr.io/qcdis/naavre/naavre-cell-build-laserfarm:latest",
+    "runtime": "ghcr.io/qcdis/naavre/naavre-cell-runtime-laserfarm:latest"
+  },
+  "python": {
+    "build": "ghcr.io/qcdis/naavre/naavre-cell-build-python:latest",
+    "runtime": "ghcr.io/qcdis/naavre/naavre-cell-runtime-python:latest"
+  },
+  "vol2bird": {
+    "build": "ghcr.io/qcdis/naavre/naavre-cell-build-vol2bird:latest",
+    "runtime": "ghcr.io/qcdis/naavre/naavre-cell-runtime-vol2bird:latest"
+  }
+}
