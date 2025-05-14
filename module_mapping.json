@@ -29,6 +29,10 @@
         "r-minioclient": null,
         "r-bioRad": null,
         "r-biorad": null,
-        "r-tools": null
+        "r-tools": null,
+        "r-getRad": null,
+        "r-getrad": null,
+        "r-vol2birdR": null,
+        "r-vol2birdr": null
     }
 }
