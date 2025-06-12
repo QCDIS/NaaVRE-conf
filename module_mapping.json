@@ -18,7 +18,8 @@
         "acolite": null,
         "matplotlib_scalebar": "matplotlib-scalebar",
         "matplotlib.animation" : "matplotlib",
-        "matplotlib.pyplo": "matplotlib"
+        "matplotlib.pyplo": "matplotlib",
+        "PIL" : "pillow "
     },
     "r": {
         "r-climwin": null,
