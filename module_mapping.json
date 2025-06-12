@@ -17,9 +17,11 @@
         "osgeo": "gdal",
         "acolite": null,
         "matplotlib_scalebar": "matplotlib-scalebar",
+        "matplotlib_scalebar.scalebar": "matplotlib-scalebar",
         "matplotlib.animation" : "matplotlib",
-        "matplotlib.pyplo": "matplotlib",
-        "PIL" : "pillow "
+        "matplotlib.pyplot": "matplotlib",
+        "matplotlib.patches":"matplotlib",
+        "PIL": "pillow"
     },
     "r": {
         "r-climwin": null,
