@@ -21,7 +21,8 @@
         "matplotlib.animation" : "matplotlib",
         "matplotlib.pyplot": "matplotlib",
         "matplotlib.patches":"matplotlib",
-        "PIL": "pillow"
+        "PIL": "pillow",
+        "skimage": "scikit-image"
     },
     "r": {
         "r-climwin": null,
