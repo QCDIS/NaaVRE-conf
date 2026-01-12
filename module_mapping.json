@@ -22,6 +22,9 @@
         "matplotlib.pyplot": "matplotlib",
         "matplotlib.patches":"matplotlib",
         "PIL": "pillow",
+        "sklearn": "scikit-learn",
+        "scikit_posthocs": "scikit-posthocs",
+        "skbio": "scikit-bio",
         "skimage": "scikit-image"
     },
     "r": {
