@@ -7,7 +7,8 @@
         "dtSat": "git+https://github.com/stanleesocca/dtRemoteSensing.git",
         "dtAcolite": "git+https://github.com/stanleesocca/dtRemoteSensing.git",
         "soilgrids": "git+https://github.com/QCDIS/general-soilgrids-soil-data.git",
-        "SecretsProvider": "SecretsProvider"
+        "SecretsProvider": "SecretsProvider",
+        "pyocto": "pyocto"
     },
     "conda": {
         "torch": "pytorch",
