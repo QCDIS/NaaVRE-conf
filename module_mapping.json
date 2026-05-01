@@ -8,7 +8,10 @@
         "dtAcolite": "git+https://github.com/stanleesocca/dtRemoteSensing.git",
         "soilgrids": "git+https://github.com/QCDIS/general-soilgrids-soil-data.git",
         "SecretsProvider": "SecretsProvider",
-        "pyocto": "pyocto"
+        "pyocto": "pyocto",
+        "seisbench": "seisbench",
+        "xinterp": "xinterp",
+        "xdas": "xdas"
     },
     "conda": {
         "torch": "pytorch",
