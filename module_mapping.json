@@ -11,7 +11,11 @@
         "pyocto": "pyocto",
         "seisbench": "seisbench",
         "xinterp": "xinterp",
-        "xdas": "xdas"
+        "xdas": "xdas",
+        "searoute": "searoute",
+        "lexcube": "lexcube",
+        "pdal-plugins": "pdal-plugins",
+        "rws-ddlpy": "rws-ddlpy"
     },
     "conda": {
         "torch": "pytorch",
