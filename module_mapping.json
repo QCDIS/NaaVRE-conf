@@ -36,7 +36,8 @@
         "sklearn": "scikit-learn",
         "scikit_posthocs": "scikit-posthocs",
         "skbio": "scikit-bio",
-        "skimage": "scikit-image"
+        "skimage": "scikit-image",
+        "ee": "earthengine-api"
     },
     "r": {
         "r-climwin": null,
